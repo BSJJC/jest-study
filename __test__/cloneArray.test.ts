@@ -8,6 +8,6 @@ test(
     expect(
       cloneArray(testArray)
     )
-    .toEqual(testArray)
+      .toEqual(testArray);
   }
 );
