@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1675932428759" clover="3.2.0">
-  <project timestamp="1675932428759" name="All files">
+<coverage generated="1675932821054" clover="3.2.0">
+  <project timestamp="1675932821054" name="All files">
     <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4" elements="16" coveredelements="14" complexity="0" loc="11" ncloc="11" packages="1" files="3" classes="3"/>
     <file name="cloneArray.ts" path="C:\Users\80508\Desktop\jest-study\ts\cloneArray.ts">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
